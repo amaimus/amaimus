@@ -1,7 +1,7 @@
 ###  Hello there! 🚀
 I'm **github_account_name!**
 
-Just kidding, I'm **Alejandro**, a experienced Frontend developer currently working on **Homming**!
+Just kidding, I'm **Alejandro**, a experienced Frontend developer currently working at **Homming**!
 
  - 👷‍♀️ I've worked in different tech companies, and after that, I feel really confortable working with Javacript frameworks and libraries.
  - 🤖 I have no experience on it but I'm super interested on working in projects related to **AI** or **VR**.
