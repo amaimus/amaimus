@@ -1,7 +1,7 @@
 ###  Hello there! 🚀
 I'm **github_account_name!**
 
-Just kidding, I'm **Alejandro**, a experienced Frontend developer currently working at **Homming**!
+Just kidding, I'm **Alejandro**, +3 years of experiences as Frontend developer!
 
  - 👷‍♀️ I've worked in different tech companies, and after that, I feel really confortable working with Javacript frameworks and libraries.
  - 🤖 I am self-taught studying **AI** and would love to contribute to related projects
@@ -12,6 +12,10 @@ Just kidding, I'm **Alejandro**, a experienced Frontend developer currently work
 __Frontend:__ Javascript, Typescript, Vue and React
 
 ![](https://skillicons.dev/icons?i=js,ts,vue,react) 
+
+**Backend:** Nodejs, Ruby
+
+![](https://skillicons.dev/icons?i=nodejs,ruby) 
 
 **Page structure & styling:** Html, Css, Scss, Tailwind and Bootstrap
 
