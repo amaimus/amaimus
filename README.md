@@ -9,13 +9,13 @@ Just kidding, I'm **Alejandro**, +3 years of experience as Frontend developer!
 
 **My tech and tools**
 
-__Frontend:__ Javascript, Typescript, Vue and React
+__Frontend:__ Javascript, Typescript, Vue, React and Astro
 
-![](https://skillicons.dev/icons?i=js,ts,vue,react) 
+![](https://skillicons.dev/icons?i=js,ts,vue,react,astro) 
 
-**Backend:** Nodejs, Ruby
+**Backend:** Nodejs
 
-![](https://skillicons.dev/icons?i=nodejs,ruby) 
+![](https://skillicons.dev/icons?i=nodejs) 
 
 **Page structure & styling:** Html, Css, Scss, Tailwind and Bootstrap
 
