@@ -1,7 +1,6 @@
 ###  Hello there! 🚀
-I'm **github_account_name!**
 
-Just kidding, I'm **Alejandro**, +3 years of experience as Frontend developer!
+I'm **Alejandro**, +3 years of experience as Frontend developer!
 
  - 👷‍♀️ I've worked in different tech companies, and after that, I feel really confortable working with Javacript frameworks and libraries.
  - 🤖 I am self-taught studying **AI** and would love to contribute to related projects
